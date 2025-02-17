@@ -1,4 +1,4 @@
-# Git-guacamole
+# Guacamole recipe
 
 ## Ingredients
 * Avocado
@@ -6,6 +6,7 @@
 * Salt
 
 ## Instructions
+Put peeled avocado, lime juice and salt in a bowl.
 Stir everything long enough.
 
 Enjoy!
