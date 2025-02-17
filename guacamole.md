@@ -1,4 +1,5 @@
 # Git-guacamole
+The greatest recipe for guacamole!
 
 ## Ingredients
 * Avocado
