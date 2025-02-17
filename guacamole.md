@@ -1,4 +1,5 @@
 # Guacamole recipe
+The greatest recipe for guacamole!
 
 ## Ingredients
 * Avocado
