@@ -1,8 +1,9 @@
 # Git-guacamole
 
 ## Ingredients
-* avocado
-* lime
-* salt
+* Avocado
+* Lime
+* Salt
 
 ## Instructions
+Stir everything long enough.
